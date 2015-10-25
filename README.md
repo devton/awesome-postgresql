@@ -15,6 +15,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [PGStrom (GPU Process)
 ](https://wiki.postgresql.org/wiki/PGStrom) - Designed to off-load several CPU intensive workloads to GPU devices
 - [PostgREST](http://postgrest.com/) - Standalone web server that tuns your database directly into a RESTful API.
+- [pgloader](http://pgloader.io/) - Load data into PostgreSQL. Any Data.
 
 ### Utilities
 
