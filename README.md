@@ -17,7 +17,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [PostgREST](http://postgrest.com/) - Standalone web server that tuns your database directly into a RESTful API.
 - [pgloader](http://pgloader.io/) - Load data into PostgreSQL. Any Data.
 - [pgcli](http://pgcli.com/) - Postgres CLI with autocompletion and syntax highlighting
-- [pgbundle](https://github.com/adjust/pgbundle) - Manage your PostgreSQL extensions with Pgbundle
+- [pgbundle](https://github.com/adjust/pgbundle) - Manage your PostgreSQL extensions with Pgbundle.
 
 ### Utilities
 
