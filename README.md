@@ -10,14 +10,16 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
     - [Useful Slides](#useful-slides)
 
 ### Extensions and Tools
-- [PL/V8](http://pgxn.org/dist/plv8/doc/plv8.html) - Content for starting and do quick consults about PL/V8
-- [PGBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL
+- [PL/V8](http://pgxn.org/dist/plv8/doc/plv8.html) - Content for starting and do quick consults about PL/V8.
+- [PGBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL.
+- [pgpool-II](http://pgpool.net) - Connection pooler, load balancer, replicator, also implementing parallel query.
 - [PGStrom (GPU Process)
-](https://wiki.postgresql.org/wiki/PGStrom) - Designed to off-load several CPU intensive workloads to GPU devices
+](https://wiki.postgresql.org/wiki/PGStrom) - Designed to off-load several CPU intensive workloads to GPU devices.
 - [PostgREST](http://postgrest.com/) - Standalone web server that tuns your database directly into a RESTful API.
 - [pgloader](http://pgloader.io/) - Load data into PostgreSQL. Any Data.
-- [pgcli](http://pgcli.com/) - Postgres CLI with autocompletion and syntax highlighting
 - [pgbundle](https://github.com/adjust/pgbundle) - Manage your PostgreSQL extensions with Pgbundle.
+- [pgcli](http://pgcli.com/) - Postgres CLI with autocompletion and syntax highlighting.
+- [Barman](http://www.pgbarman.org) - Backup and recovery manager.
 
 ### Utilities
 
