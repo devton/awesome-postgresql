@@ -21,6 +21,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [pgcli](http://pgcli.com/) - Postgres CLI with autocompletion and syntax highlighting.
 - [Barman](http://www.pgbarman.org) - Backup and recovery manager.
 - [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
+- [pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard which can be deployed as a binary.
 
 ### Utilities
 
