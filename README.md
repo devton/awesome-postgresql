@@ -10,6 +10,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
     - [Useful Slides](#useful-slides)
 
 ### Extensions and Tools
+- [Citus](https://github.com/citusdata/citus) - Citus horizontally scales PostgreSQL across commodity servers using sharding and replication. Its query engine parallelizes incoming SQL queries across these servers to enable real-time responses on large datasets.
 - [PL/V8](http://pgxn.org/dist/plv8/doc/plv8.html) - Content for starting and do quick consults about PL/V8.
 - [PGBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL.
 - [pgpool-II](http://pgpool.net) - Connection pooler, load balancer, replicator, also implementing parallel query.
