@@ -24,6 +24,10 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
 - [pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard which can be deployed as a binary.
 
+#### SQL plan visualizers
+- [Depesz](http://explain.depesz.com/)
+- [Tatiyants](http://tatiyants.com/pev/)
+
 ### Utilities
 
 ##### Useful scripts
@@ -40,3 +44,8 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 
 - [Full text search (PT_BR)](http://pt.slideshare.net/spjuliano/fts-26392077) -  Deep intro on full text search on postgresql
 - [PostgREST + Mihtril.js](http://slideshare.net/tonnysk823/using-mithriljs-postgrest-to-build-and-consume-apis) - Real example of postREST using
+
+### Blogs
+- [2ndQuadrant](http://blog.2ndquadrant.com/)
+- [PostgreSQL-Consulting](http://blog.postgresql-consulting.com/)
+- [Depesz](http://www.depesz.com/)
