@@ -49,3 +49,6 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [2ndQuadrant](http://blog.2ndquadrant.com/)
 - [PostgreSQL-Consulting](http://blog.postgresql-consulting.com/)
 - [Depesz](http://www.depesz.com/)
+
+### Screencasts
+- [PG Casts](https://www.pgcasts.com/)
