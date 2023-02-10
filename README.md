@@ -8,6 +8,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
     - [Useful Scripts] (#useful-scripts)
     - [Useful Examples] (#useful-examples)
     - [Useful Slides](#useful-slides)
+    - [Roadmaps](#roadmaps)
 
 ### Extensions and Tools
 - [Citus](https://github.com/citusdata/citus) - Citus horizontally scales PostgreSQL across commodity servers using sharding and replication. Its query engine parallelizes incoming SQL queries across these servers to enable real-time responses on large datasets.
@@ -46,6 +47,10 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 
 - [Full text search (PT_BR)](http://pt.slideshare.net/spjuliano/fts-26392077) -  Deep intro on full text search on postgresql
 - [PostgREST + Mihtril.js](http://slideshare.net/tonnysk823/using-mithriljs-postgrest-to-build-and-consume-apis) - Real example of postREST using
+
+##### Roadmaps
+
+- [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) -  Complete step-by-step guide to PostgreSQL
 
 ### Blogs
 - [2ndQuadrant](http://blog.2ndquadrant.com/)
