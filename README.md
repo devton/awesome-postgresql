@@ -32,6 +32,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [Tatiyants](http://tatiyants.com/pev/)
 
 ### Utilities
+- [Bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL.
 
 ##### Useful scripts
 
