@@ -26,6 +26,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
 - [pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard which can be deployed as a binary.
 - [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL. 
+- [pg](https://github.com/datawan-labs/pg) - Browser PostgreSQL, no server, just client and pglite (postgresql wasm)
 - [Bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL.
 
 #### SQL plan visualizers
