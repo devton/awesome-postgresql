@@ -38,6 +38,8 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 ##### Useful scripts
 
 - [Views dependency handle](http://pretius.com/postgresql-stop-worrying-about-table-and-view-dependencies/) - Script to handle with tabe and view dependencies easy.
+- [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - This program helps to solve the issue by synchronizing users, groups and their memberships from LDAP to PostgreSQL
+- [pgldapsync](https://github.com/EnterpriseDB/pgldapsync) - Python module that allows you to synchronize Postgres login roles with users in an LDAP directory
 
 ##### Useful Examples
 
