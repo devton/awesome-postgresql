@@ -32,6 +32,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 #### SQL plan visualizers
 - [Depesz](http://explain.depesz.com/)
 - [Tatiyants](http://tatiyants.com/pev/)
+- [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector for AI workloads. Built-in SQL editor lets you query your database with natural language (automatically converted to vector embeddings). Free tier includes 2GB storage.
 
 ### Utilities
 
