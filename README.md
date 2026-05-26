@@ -21,6 +21,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [PostgREST](http://postgrest.com/) - Standalone web server that tuns your database directly into a RESTful API.
 - [pgloader](http://pgloader.io/) - Load data into PostgreSQL. Any Data.
 - [pgbundle](https://github.com/adjust/pgbundle) - Manage your PostgreSQL extensions with Pgbundle.
+- [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) - PostgreSQL extension for BM25-family lexical retrieval with a native index access method and SQL query APIs.
 - [pgcli](http://pgcli.com/) - Postgres CLI with autocompletion and syntax highlighting.
 - [Barman](http://www.pgbarman.org) - Backup and recovery manager.
 - [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
