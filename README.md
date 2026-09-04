@@ -29,6 +29,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL. 
 - [pg](https://github.com/datawan-labs/pg) - Browser PostgreSQL, no server, just client and pglite (postgresql wasm)
 - [Bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL.
+- [1bench](https://1bench.dev/postgresql) - Desktop client for PostgreSQL with pgvector support, plus two dozen other engines.
 
 #### SQL plan visualizers
 - [Depesz](http://explain.depesz.com/)
