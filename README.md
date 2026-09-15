@@ -29,6 +29,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL. 
 - [pg](https://github.com/datawan-labs/pg) - Browser PostgreSQL, no server, just client and pglite (postgresql wasm)
 - [Bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL.
+- [RowShield](https://rowshield.dev/) - Checks a Supabase (PostgREST) deployment from the outside for tables and storage that anonymous callers can read; free read-only probe, paid scheduled RLS policy and drift checks.
 
 #### SQL plan visualizers
 - [Depesz](http://explain.depesz.com/)
