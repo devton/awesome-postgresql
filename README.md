@@ -30,6 +30,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [pg](https://github.com/datawan-labs/pg) - Browser PostgreSQL, no server, just client and pglite (postgresql wasm)
 - [Bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL.
 - [1bench](https://1bench.dev/postgresql) - Desktop client for PostgreSQL with pgvector support, plus two dozen other engines.
+- [RowShield](https://rowshield.dev/) - Checks a Supabase (PostgREST) deployment from the outside for tables and storage that anonymous callers can read; free read-only probe, paid scheduled RLS policy and drift checks.
 
 #### SQL plan visualizers
 - [Depesz](http://explain.depesz.com/)
