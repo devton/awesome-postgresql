@@ -16,6 +16,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [PL/V8](http://pgxn.org/dist/plv8/doc/plv8.html) - Content for starting and do quick consults about PL/V8.
 - [PGBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL.
 - [pgpool-II](http://pgpool.net) - Connection pooler, load balancer, replicator, also implementing parallel query.
+- [Postgres Connection Pool Sizer](https://amanksingh.com/tools/postgres-connection-pool-sizer) - Free tool to calculate the optimal pool size, per-instance limit, and max_connections from CPU cores, using the widely-used HikariCP formula.
 - [PGStrom (GPU Process)
 ](https://wiki.postgresql.org/wiki/PGStrom) - Designed to off-load several CPU intensive workloads to GPU devices.
 - [PostgREST](http://postgrest.com/) - Standalone web server that tuns your database directly into a RESTful API.
