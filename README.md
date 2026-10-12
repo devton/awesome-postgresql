@@ -32,6 +32,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [Bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL.
 - [1bench](https://1bench.dev/postgresql) - Desktop client for PostgreSQL with pgvector support, plus two dozen other engines.
 - [RowShield](https://rowshield.dev/) - Checks a Supabase (PostgREST) deployment from the outside for tables and storage that anonymous callers can read; free read-only probe, paid scheduled RLS policy and drift checks.
+- [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with a PostgreSQL check that connects, runs a query (default `SELECT 1`) and alerts on failure.
 
 #### SQL plan visualizers
 - [Depesz](http://explain.depesz.com/)
