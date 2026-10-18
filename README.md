@@ -5,8 +5,8 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [awesome-postgresql](https://github.com/devton/awesome-postgresql#awesome-postgresql)
   - [Extensions / Tools](#extensions-and-tools)
   - [Utilities](#utilities)
-    - [Useful Scripts] (#useful-scripts)
-    - [Useful Examples] (#useful-examples)
+    - [Useful Scripts](#useful-scripts)
+    - [Useful Examples](#useful-examples)
     - [Useful Slides](#useful-slides)
     - [Roadmaps](#roadmaps)
 
