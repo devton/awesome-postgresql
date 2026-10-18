@@ -25,6 +25,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) - PostgreSQL extension for BM25-family lexical retrieval with a native index access method and SQL query APIs.
 - [pgcli](http://pgcli.com/) - Postgres CLI with autocompletion and syntax highlighting.
 - [Barman](http://www.pgbarman.org) - Backup and recovery manager.
+- [RowSafe](https://rowsafe.sh) - Open-source PostgreSQL tooling for backups, restore testing, health checks and tuning, with an Apache-2.0 CLI, Linux server agent and MCP integration.
 - [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
 - [pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard which can be deployed as a binary.
 - [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL. 
@@ -33,6 +34,9 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [1bench](https://1bench.dev/postgresql) - Desktop client for PostgreSQL with pgvector support, plus two dozen other engines.
 - [RowShield](https://rowshield.dev/) - Checks a Supabase (PostgREST) deployment from the outside for tables and storage that anonymous callers can read; free read-only probe, paid scheduled RLS policy and drift checks.
 - [Scribase](https://scribase.com/) - Self-hosted control plane for Supabase + Neon: provision, pool, and manage your own Postgres projects without the hosted-vendor lock-in, open source.
+- [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with a PostgreSQL check that connects, runs a query (default `SELECT 1`) and alerts on failure.
+- [OLake](https://github.com/datazip-inc/olake) - Open-source PostgreSQL to Apache Iceberg replication using logical replication (CDC), full refresh and incremental sync. Written in Go.
+- [dbdiff](https://github.com/rekurt/dbdiff) - Compare PostgreSQL schemas, detect drift, and generate migration SQL for review, including offline SQL-file and snapshot comparisons.
 
 #### SQL plan visualizers
 - [Depesz](http://explain.depesz.com/)
