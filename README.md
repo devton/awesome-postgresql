@@ -51,6 +51,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - This program helps to solve the issue by synchronizing users, groups and their memberships from LDAP to PostgreSQL
 - [pgldapsync](https://github.com/EnterpriseDB/pgldapsync) - Python module that allows you to synchronize Postgres login roles with users in an LDAP directory
 - [postgresql-ldap-sync](https://github.com/canonical/postgresql-ldap-sync) - This program synchronize users, groups and their memberships from LDAP to PostgreSQL
+- [Supabase RLS self-audit](https://github.com/cryptoscooter99/supabase-rls-audit) - Read-only SQL for the Supabase SQL Editor that flags RLS-off tables, `USING (true)` policies, policies not tied to the caller, views without `security_invoker` and API-callable `SECURITY DEFINER` functions, with a fix for each. MIT.
 
 ##### Useful Examples
 
