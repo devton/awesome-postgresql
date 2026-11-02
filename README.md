@@ -26,6 +26,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [pgcli](http://pgcli.com/) - Postgres CLI with autocompletion and syntax highlighting.
 - [Barman](http://www.pgbarman.org) - Backup and recovery manager.
 - [RowSafe](https://rowsafe.sh) - Open-source PostgreSQL tooling for backups, restore testing, health checks and tuning, with an Apache-2.0 CLI, Linux server agent and MCP integration.
+- [restoredrill](https://github.com/hamarshehmhmd/restoredrill) - CLI and GitHub Action that restores your newest pg_dump backup into a throwaway server and runs checks, to prove the backup actually restores.
 - [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
 - [pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard which can be deployed as a binary.
 - [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL. 
