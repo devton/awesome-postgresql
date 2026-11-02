@@ -37,6 +37,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with a PostgreSQL check that connects, runs a query (default `SELECT 1`) and alerts on failure.
 - [OLake](https://github.com/datazip-inc/olake) - Open-source PostgreSQL to Apache Iceberg replication using logical replication (CDC), full refresh and incremental sync. Written in Go.
 - [dbdiff](https://github.com/rekurt/dbdiff) - Compare PostgreSQL schemas, detect drift, and generate migration SQL for review, including offline SQL-file and snapshot comparisons.
+- [Pilotbase](https://github.com/icedsg/pilotbase) - Database client for PostgreSQL alongside MySQL, SQLite, MongoDB and vector databases, with a SQL editor, schema tree, table inspector and SQL export. MIT licensed, runs in Docker or as a desktop app.
 
 #### SQL plan visualizers
 - [Depesz](http://explain.depesz.com/)
