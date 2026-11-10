@@ -37,6 +37,7 @@ A curated list of awesome PostgreSQL tools, scripts, slides, and short examples.
 - [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with a PostgreSQL check that connects, runs a query (default `SELECT 1`) and alerts on failure.
 - [OLake](https://github.com/datazip-inc/olake) - Open-source PostgreSQL to Apache Iceberg replication using logical replication (CDC), full refresh and incremental sync. Written in Go.
 - [dbdiff](https://github.com/rekurt/dbdiff) - Compare PostgreSQL schemas, detect drift, and generate migration SQL for review, including offline SQL-file and snapshot comparisons.
+- [Madsalt Supabase Checker](https://madsalt.tech/tools/supabase-security-check/) - Free read-only security check of a Supabase Postgres project from the inside: reads the catalog (RLS flags, policies, grants, views, functions, roles) and reports 46 checks with fix SQL; never reads table rows.
 
 #### SQL plan visualizers
 - [Depesz](http://explain.depesz.com/)
